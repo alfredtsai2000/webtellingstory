@@ -1,2 +1,2 @@
 # webtellingstory
-what I do on an NTU course.
+git init
